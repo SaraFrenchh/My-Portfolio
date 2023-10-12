@@ -28,7 +28,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: My Projects
-    subtitle: Section subtitle here
+    subtitle: Check out what I have been working on!
     items:
       - type: Card
         title: First Card Title
