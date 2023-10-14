@@ -10,7 +10,7 @@ sections:
       more.](https://docs.stackbit.com/how-to-guides/local-development/)
     actions:
       - type: Button
-        label: Start Building
+        label: Projects
         url: 'https://docs.stackbit.com/getting-started/'
         size: large
         variant: contained
