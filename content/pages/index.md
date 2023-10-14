@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Data Enthusiast
+    title: Welcome to My Portfolio Website!
     subtitle: ''
     text: >
       Data Enthusiast . [Learn
