@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/tempImageRDssmg.bmp
+      url: /images/5BEDEEE6-F658-47FA-987A-54BFFFCA185F.jpeg
       altText: Hero section image
   - type: CardsSection
     title: My Projects
