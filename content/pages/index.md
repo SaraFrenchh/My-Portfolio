@@ -6,8 +6,7 @@ sections:
     title: Data Enthusiast
     subtitle: ''
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
+      Data Enthusiast . [Learn
       more.](https://docs.stackbit.com/how-to-guides/local-development/)
     actions:
       - type: Button
