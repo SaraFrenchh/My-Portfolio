@@ -45,7 +45,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.stackbit.com/'
       - type: Card
-        title: Second Card Title
+        title: Housing Prices
         image:
           type: Image
           url: /images/mui-5.svg
