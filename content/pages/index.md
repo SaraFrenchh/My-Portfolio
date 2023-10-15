@@ -64,7 +64,7 @@ sections:
         title: Video Game Sales
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/D791D430-6261-4991-AF94-0BF9BEF5D4A2.jpeg
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
