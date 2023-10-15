@@ -42,7 +42,7 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Tableau Public
             url: >-
               https://public.tableau.com/app/profile/sara.f2900/viz/Airbnbbook_16959281352180/AirbnbDash
       - type: Card
