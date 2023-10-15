@@ -19,7 +19,7 @@ sections:
         label: Read the Docs
         url: 'https://docs.stackbit.com/'
         size: large
-        variant: outlined
+        variant: contained
         color: primary
     image:
       type: Image
