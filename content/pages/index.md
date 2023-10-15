@@ -59,7 +59,8 @@ sections:
         actions:
           - type: Button
             label: Tableau Public
-            url: 'https://docs.stackbit.com/'
+            url: >-
+              https://public.tableau.com/app/profile/sara.f2900/viz/HousePrice_16967252418080/HousePrice
       - type: Card
         title: Video Game Sales
         image:
