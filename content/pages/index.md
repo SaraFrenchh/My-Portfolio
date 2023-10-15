@@ -61,7 +61,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.stackbit.com/'
       - type: Card
-        title: Third Card Title
+        title: Video Game Sales
         image:
           type: Image
           url: /images/ts.svg
