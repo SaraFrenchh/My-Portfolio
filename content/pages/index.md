@@ -30,7 +30,7 @@ sections:
     subtitle: Check out what I have been working on!
     items:
       - type: Card
-        title: AirBnB
+        title: Airbnb Book
         image:
           type: Image
           url: /images/nextjs.svg
