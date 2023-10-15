@@ -18,7 +18,7 @@ sections:
       - type: Button
         label: Read the Docs
         url: 'https://docs.stackbit.com/'
-        size: small
+        size: large
         variant: outlined
         color: primary
     image:
