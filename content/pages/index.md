@@ -6,7 +6,7 @@ sections:
     title: Welcome to My Portfolio Website!
     subtitle: ''
     text: >
-      Data Enthusiast . [Learn
+      Data Enthusiast .   [Learn
       more.](https://docs.stackbit.com/how-to-guides/local-development/)
     actions:
       - type: Button
