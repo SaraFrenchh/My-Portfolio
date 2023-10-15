@@ -33,7 +33,7 @@ sections:
         title: Airbnb Book
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/56A11082-59D3-4712-922F-C4313AE704C1.jpeg
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
