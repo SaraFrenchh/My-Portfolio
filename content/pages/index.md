@@ -49,7 +49,7 @@ sections:
         title: Housing Prices
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/81F13351-D62F-4C2D-BA11-0DF988093651.jpeg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
