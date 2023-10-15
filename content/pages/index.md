@@ -75,5 +75,6 @@ sections:
         actions:
           - type: Button
             label: Tableau Public
-            url: 'https://docs.stackbit.com/'
+            url: >-
+              https://public.tableau.com/app/profile/sara.f2900/viz/videogamesales_16959203635510/Dashboard1
 ---
