@@ -74,6 +74,6 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Tableau Public
             url: 'https://docs.stackbit.com/'
 ---
