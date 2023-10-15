@@ -43,7 +43,8 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.stackbit.com/'
+            url: >-
+              https://public.tableau.com/app/profile/sara.f2900/viz/Airbnbbook_16959281352180/AirbnbDash
       - type: Card
         title: Housing Prices
         image:
