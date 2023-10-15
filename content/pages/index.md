@@ -20,7 +20,7 @@ sections:
         url: 'https://docs.stackbit.com/'
         size: large
         variant: contained
-        color: primary
+        color: secondary
     image:
       type: Image
       url: /images/tempImageAzkGfe.bmp
