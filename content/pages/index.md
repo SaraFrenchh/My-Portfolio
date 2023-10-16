@@ -6,7 +6,7 @@ sections:
     title: Welcome to My Portfolio Website!
     subtitle: ''
     text: |
-      Data Enthusiast .  <https://github.com/Saralouislofmen>
+      Data Enthusiast .  
     actions:
       - type: Button
         label: Projects
