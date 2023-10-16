@@ -17,7 +17,7 @@ sections:
         color: primary
       - type: Button
         label: Learn more
-        url: /
+        url: '/https://www.linkedin.com/in/sara-french-'
         size: medium
         variant: text
         color: primary
