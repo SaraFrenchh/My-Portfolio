@@ -5,9 +5,8 @@ sections:
   - type: HeroSection
     title: Welcome to My Portfolio Website!
     subtitle: ''
-    text: >
-      Data Enthusiast .   [Learn
-      more.](https://docs.stackbit.com/how-to-guides/local-development/)
+    text: |
+      Data Enthusiast .  <https://github.com/Saralouislofmen>
     actions:
       - type: Button
         label: Projects
