@@ -15,12 +15,6 @@ sections:
         size: large
         variant: contained
         color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.stackbit.com/'
-        size: large
-        variant: contained
-        color: inherit
     image:
       type: Image
       url: /images/tempImageAzkGfe.bmp
