@@ -15,7 +15,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Learn more
+        label: Find Me
         url: /
         size: medium
         variant: text
