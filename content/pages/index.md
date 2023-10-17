@@ -17,7 +17,7 @@ sections:
       - type: Button
         label: Learn more
         url: /
-        size: medium
+        size: small
         variant: text
         color: primary
     image:
