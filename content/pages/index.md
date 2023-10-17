@@ -23,7 +23,7 @@ sections:
     image:
       type: Image
       altText: Hero section image
-      url: /images/tempImageAzkGfe.bmp
+      url: /images/tempImageFG6xkh.bmp
   - type: CardsSection
     title: My Projects
     subtitle: Check out what I have been working on!
