@@ -18,7 +18,7 @@ sections:
         label: Learn more
         url: /
         size: large
-        variant: text
+        variant: contained
         color: primary
     image:
       type: Image
