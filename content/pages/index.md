@@ -19,7 +19,7 @@ sections:
         url: /
         size: medium
         variant: contained
-        color: inherit
+        color: primary
     image:
       type: Image
       url: /images/tempImageAzkGfe.bmp
