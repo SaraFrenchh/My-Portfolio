@@ -41,7 +41,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "GitHub",
                 "underline": "hover",
                 "url": "https://docs.stackbit.com/"
             }
