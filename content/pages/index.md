@@ -16,7 +16,7 @@ sections:
         color: primary
       - type: Button
         label: Find Me
-        url: /
+        url: 'https://app.stackbit.com/studio/652879e2d9dbb200bda16a07'
         size: large
         variant: contained
         color: primary
