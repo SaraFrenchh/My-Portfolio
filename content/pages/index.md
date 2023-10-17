@@ -18,7 +18,7 @@ sections:
         label: Find Me
         url: /
         size: medium
-        variant: outlined
+        variant: contained
         color: inherit
     image:
       type: Image
