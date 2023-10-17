@@ -17,7 +17,7 @@ sections:
       - type: Button
         label: Find Me
         url: /
-        size: medium
+        size: small
         variant: contained
         color: primary
     image:
