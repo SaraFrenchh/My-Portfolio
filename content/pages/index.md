@@ -22,7 +22,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/tempImageAzkGfe.bmp
       altText: Hero section image
   - type: CardsSection
     title: My Projects
