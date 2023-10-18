@@ -45,7 +45,7 @@ sections:
             url: >-
               https://public.tableau.com/app/profile/sara.f2900/viz/Airbnbbook_16959281352180/AirbnbDash
       - type: Card
-        title: Housing Prices
+        title: Seattle Housing Price Insights
         image:
           type: Image
           url: /images/81F13351-D62F-4C2D-BA11-0DF988093651.jpeg
