@@ -61,7 +61,7 @@ sections:
             url: >-
               https://public.tableau.com/app/profile/sara.f2900/viz/HousePrice_16967252418080/HousePrice
       - type: Card
-        title: Video Game Sales by Genre Analysis
+        title: Video Game Sales by Genre
         image:
           type: Image
           url: /images/D791D430-6261-4991-AF94-0BF9BEF5D4A2.jpeg
