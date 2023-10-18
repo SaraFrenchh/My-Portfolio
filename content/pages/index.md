@@ -13,7 +13,7 @@ sections:
         url: 'https://app.stackbit.com/studio/652879e2d9dbb200bda16a07'
         size: large
         variant: contained
-        color: primary
+        color: inherit
     image:
       type: Image
       altText: Hero section image
