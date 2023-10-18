@@ -23,7 +23,7 @@ sections:
     subtitle: Check out what I have been working on!
     items:
       - type: Card
-        title: Seattle Airbnb Prices
+        title: Seattle Airbnb Price Insights
         image:
           type: Image
           url: /images/56A11082-59D3-4712-922F-C4313AE704C1.jpeg
