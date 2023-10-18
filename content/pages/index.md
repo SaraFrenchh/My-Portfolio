@@ -51,10 +51,9 @@ sections:
           url: /images/81F13351-D62F-4C2D-BA11-0DF988093651.jpeg
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          This Tableau project focuses on the housing market in Seattle,
+          Washington. It helps people understand the trends in housing prices
+          and provides valuable information to both homebuyers and sellers.
         actions:
           - type: Button
             label: Tableau Public
