@@ -53,9 +53,7 @@ sections:
         text: >
           This Tableau project focuses on the housing market in Seattle,
           Washington. It helps people understand the trends in housing prices
-          and provides valuable information to both homebuyers and sellers.
-
-
+          and provides valuable information to both homebuyers and sellers. 
           Check out the link for more info!
         actions:
           - type: Button
