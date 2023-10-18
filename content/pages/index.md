@@ -35,10 +35,10 @@ sections:
           url: /images/56A11082-59D3-4712-922F-C4313AE704C1.jpeg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          The primary goal of this Tableau project is to provide a comprehensive
+          analysis of Airbnb listings in Seattle, Washington. It aims to offer
+          valuable insights to Airbnb hosts, guests, and those interested in the
+          local short-term rental market.
         actions:
           - type: Button
             label: Tableau Public
