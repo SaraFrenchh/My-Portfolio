@@ -70,7 +70,7 @@ sections:
           This Tableau visualization aims to provide insights into the
           popularity of video game genres in the gaming industry. It focuses on
           the distribution and trends of video game sales within different
-          genres.
+          genres. Check out the link for more info!
         actions:
           - type: Button
             label: Tableau Public
