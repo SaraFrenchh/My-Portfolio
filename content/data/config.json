@@ -2,24 +2,24 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "Sara French",
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
+                "label": "Tableau",
+                "url": "https://public.tableau.com/app/profile/sara.f2900/vizzes",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/sara-french-",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.stackbit.com/",
+                "label": "GitHub",
+                "url": "https://github.com/Saralouislofmen",
                 "underline": "hover"
             }
         ]
@@ -29,21 +29,21 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Tableau",
                 "underline": "hover",
-                "url": "/"
+                "url": "https://public.tableau.com/app/profile/sara.f2900/vizzes"
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "LinkedIn",
                 "underline": "hover",
-                "url": "/about"
+                "url": "https://www.linkedin.com/in/sara-french-"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "GitHub",
                 "underline": "hover",
-                "url": "https://docs.stackbit.com/"
+                "url": "https://github.com/Saralouislofmen"
             }
         ]
     }
