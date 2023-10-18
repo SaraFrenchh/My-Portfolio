@@ -6,7 +6,7 @@ sections:
     title: Welcome to My Portfolio Website!
     subtitle: ''
     text: |
-      Data Enthusiast. Deep Dives. 
+      Data Enthusiast. Deep Dives. Continuous Learning. 
     actions:
       - type: Button
         label: Projects
