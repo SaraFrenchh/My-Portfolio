@@ -7,13 +7,7 @@ sections:
     subtitle: ''
     text: |
       Data Enthusiast. Deep Dives. Continuous Learning. 
-    actions:
-      - type: Button
-        label: Projects
-        url: 'https://app.stackbit.com/studio/652879e2d9dbb200bda16a07'
-        size: large
-        variant: contained
-        color: secondary
+    actions: []
     image:
       type: Image
       altText: Hero section image
