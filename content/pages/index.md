@@ -7,13 +7,7 @@ sections:
     subtitle: ''
     text: |
       Data Enthusiast. Deep Dives. Continuous Learning. 
-    actions:
-      - type: Button
-        label: Projects
-        url: 'https://app.stackbit.com/studio/652879e2d9dbb200bda16a07'
-        size: large
-        variant: contained
-        color: secondary
+    actions: []
     image:
       type: Image
       altText: Hero section image
@@ -23,7 +17,7 @@ sections:
     subtitle: Check out what I have been working on!
     items:
       - type: Card
-        title: Seattle Airbnb Insights
+        title: Seattle Airbnb Price Insights
         image:
           type: Image
           url: /images/56A11082-59D3-4712-922F-C4313AE704C1.jpeg
