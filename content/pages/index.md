@@ -81,7 +81,7 @@ sections:
         actions:
           - type: Button
             label: View on GitHub
-            url: /
+            url: 'https://github.com/SaraFrenchh/Sales-Report-'
             size: medium
             variant: text
             color: primary
