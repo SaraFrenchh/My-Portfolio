@@ -80,7 +80,7 @@ sections:
           altText: First item image
         actions:
           - type: Button
-            label: Learn more
+            label: View on GitHub
             url: /
             size: medium
             variant: text
