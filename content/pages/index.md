@@ -88,10 +88,12 @@ sections:
             color: primary
       - type: Card
         title: Analysis of Spotify Artists
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          I was enthusiastic about conducting an analysis of Spotify's top
+          artists and their most popular songs. I often notice that I repeatedly
+          listen to the same five songs. This project provided me with the
+          opportunity to explore a diverse range of music and discover what
+          other listeners were eager to enjoy.
         image:
           type: Image
           url: /images/C19499E8-60A7-4CE4-A3D4-66AA759C8433.jpeg
