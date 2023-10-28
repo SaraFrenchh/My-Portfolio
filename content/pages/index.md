@@ -111,7 +111,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/843103EF-6EFE-4FE3-B569-638C1A5241B5.jpeg
           altText: Third item image
         actions:
           - type: Button
