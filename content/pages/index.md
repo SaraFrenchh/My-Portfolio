@@ -66,7 +66,7 @@ sections:
               https://public.tableau.com/app/profile/sara.f2900/viz/videogamesales_16959203635510/Dashboard1
   - type: CardsSection
     title: 'My Projects, Made with Power BI'
-    subtitle: The section subtitle
+    subtitle: Check out what I have been working on!
     items:
       - type: Card
         title: First Item Title
