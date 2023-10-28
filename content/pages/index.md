@@ -86,7 +86,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Most-Streamed Artists on Spotify
+        title: Analysis on Spotify
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
