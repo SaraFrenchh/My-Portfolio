@@ -70,10 +70,11 @@ sections:
     items:
       - type: Card
         title: Analysis on Sales Data
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          The objective of this project was to investigate sales data using time
+          intelligence like YOY % calculations and YTD calculations, with the
+          aim of developing dashboards to enhance our understanding of general
+          sales.
         image:
           type: Image
           url: /images/52D3820A-D478-4746-979D-652AE0933644.png
