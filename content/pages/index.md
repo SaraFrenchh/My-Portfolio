@@ -13,7 +13,7 @@ sections:
       altText: Hero section image
       url: /images/tempImageFG6xkh.bmp
   - type: CardsSection
-    title: My Projects
+    title: 'My Projects, Made with Tableau'
     subtitle: Check out what I have been working on!
     items:
       - type: Card
