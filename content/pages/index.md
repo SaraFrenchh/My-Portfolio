@@ -87,7 +87,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: "Analysis of\_Spotify's Top Artists"
+        title: "Analysis of\_Spotify"
         text: >
           I was enthusiastic about conducting an analysis of Spotify's top
           artists and their most popular songs. I often notice that I repeatedly
