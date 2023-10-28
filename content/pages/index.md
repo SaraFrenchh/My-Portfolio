@@ -86,7 +86,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Analysis on Spottily top Artists
+        title: Analysis on Spotify top Artists
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
