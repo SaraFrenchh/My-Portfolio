@@ -69,7 +69,7 @@ sections:
     subtitle: Check out what I have been working on!
     items:
       - type: Card
-        title: First Item Title
+        title: Analysis on Sales Data
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
