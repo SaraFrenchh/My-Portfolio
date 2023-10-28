@@ -94,7 +94,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/C19499E8-60A7-4CE4-A3D4-66AA759C8433.jpeg
           altText: Second item image
         actions:
           - type: Button
