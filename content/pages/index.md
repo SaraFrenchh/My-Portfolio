@@ -76,7 +76,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/52D3820A-D478-4746-979D-652AE0933644.png
           altText: First item image
         actions:
           - type: Button
