@@ -107,10 +107,7 @@ sections:
             color: primary
       - type: Card
         title: 'Coming Soon :)'
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: ''
         image:
           type: Image
           url: /images/843103EF-6EFE-4FE3-B569-638C1A5241B5.jpeg
