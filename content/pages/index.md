@@ -93,7 +93,7 @@ sections:
           artists and their most popular songs. I often notice that I repeatedly
           listen to the same five songs. This project provided me with the
           opportunity to explore a diverse range of music by using drill through
-          to add additional information to the charts.
+          functionality to add additional information to the charts.
         image:
           type: Image
           url: /images/74B2BB29-3E8D-4AD4-BF66-B23DB5028252_4_5005_c.jpeg
