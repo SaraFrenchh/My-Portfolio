@@ -110,7 +110,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/843103EF-6EFE-4FE3-B569-638C1A5241B5.jpeg
+          url: /images/A0C668A4-240C-4B6D-A7DC-E1726F12B7BD_4_5005_c.jpeg
           altText: Third item image
         actions:
           - type: Button
