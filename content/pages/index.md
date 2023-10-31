@@ -107,7 +107,12 @@ sections:
             color: primary
       - type: Card
         title: Analysis of Beer Recipes
-        text: ''
+        text: >
+          This was an enjoyable project in which I conducted an analysis of
+          various beer recipes. It’s particularly beneficial for individuals
+          with prior brewing experience or those interested in giving it a try.
+          I utilized drill-through functionality to enhance the information
+          within the presentation.
         image:
           type: Image
           url: /images/A0C668A4-240C-4B6D-A7DC-E1726F12B7BD_4_5005_c.jpeg
