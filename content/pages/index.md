@@ -96,7 +96,7 @@ sections:
           other listeners were eager to enjoy.
         image:
           type: Image
-          url: /images/C19499E8-60A7-4CE4-A3D4-66AA759C8433.jpeg
+          url: /images/74B2BB29-3E8D-4AD4-BF66-B23DB5028252_4_5005_c.jpeg
           altText: Second item image
         actions:
           - type: Button
