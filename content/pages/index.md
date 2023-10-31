@@ -106,7 +106,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: 'Coming Soon :)'
+        title: Analysis of Beer Recipes
         text: ''
         image:
           type: Image
