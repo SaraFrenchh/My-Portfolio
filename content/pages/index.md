@@ -120,7 +120,7 @@ sections:
         actions:
           - type: Button
             label: View on GitHub
-            url: /
+            url: '/https://github.com/SaraFrenchh/Beer-Recipes'
             size: medium
             variant: text
             color: primary
