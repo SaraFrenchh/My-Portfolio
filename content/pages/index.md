@@ -72,8 +72,8 @@ sections:
         title: Analysis on Sales Data
         text: >
           The objective of this project was to investigate sales data using time
-          intelligence like YOY % calculations and YTD calculations, with the
-          aim of developing dashboards to enhance our understanding of general
+          intelligence like YOY% calculations and YTD calculations, with the aim
+          of developing dashboards to enhance our understanding of general
           sales.
         image:
           type: Image
