@@ -14,7 +14,7 @@ sections:
       url: /images/tempImageFG6xkh.bmp
   - type: CardsSection
     title: My Projects Made with Tableau
-    subtitle: Check out what I have been working on!
+    subtitle: Check out what I have been working on or see more on my
     items:
       - type: Card
         title: Seattle Airbnb Price Insights
