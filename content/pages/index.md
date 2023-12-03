@@ -57,10 +57,10 @@ sections:
           url: /images/Screen Shot 2023-12-03 at 1.48.18 PM.png
           altText: Third item image
         text: >
-          This Tableau visualization aims to provide insights into the
-          popularity of video game genres in the gaming industry. It focuses on
-          the distribution and trends of video game sales within different
-          genres. Check out the link for more info!
+          This was an enjoyable project to work on, as I am an active reader and
+          participate in a book club. This project allowed me to explore the
+          most popular book titles and authors, which I feel will prove helpful
+          when making my next book selection.
         actions:
           - type: Button
             label: Tableau Public
