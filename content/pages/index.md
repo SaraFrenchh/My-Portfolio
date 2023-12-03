@@ -52,7 +52,7 @@ sections:
         title: Trending Books
         image:
           type: Image
-          url: /images/D791D430-6261-4991-AF94-0BF9BEF5D4A2.jpeg
+          url: /images/Screen Shot 2023-12-03 at 1.48.18 PM.png
           altText: Third item image
         text: >
           This Tableau visualization aims to provide insights into the
