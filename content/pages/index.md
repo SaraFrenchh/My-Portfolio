@@ -38,7 +38,7 @@ sections:
         title: Seattle Housing Price Insights
         image:
           type: Image
-          url: /images/81F13351-D62F-4C2D-BA11-0DF988093651.jpeg
+          url: /images/58C56279-2A74-4990-A73C-E2C230BD3CF8.jpeg
           altText: Second item image
         text: >
           This Tableau project focuses on the housing market in Seattle,
