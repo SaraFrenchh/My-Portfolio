@@ -41,10 +41,13 @@ sections:
           url: /images/58C56279-2A74-4990-A73C-E2C230BD3CF8.jpeg
           altText: Second item image
         text: >
-          This Tableau project focuses on the housing market in Seattle,
-          Washington. It helps people understand the trends in housing prices
-          and provides valuable information to both homebuyers and sellers. 
-          Check out the link for more info!
+          This project entails a comprehensive analysis of traffic patterns on
+          interstate highways, considering monthly volumes and the impact of
+          weather and holidays on traffic. Undertaken during the pursuit of my
+          Google Business Intelligence Professional Certificate, it has afforded
+          me a valuable learning experience.
+
+           
         actions:
           - type: Button
             label: Tableau Public
