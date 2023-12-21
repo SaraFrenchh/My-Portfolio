@@ -35,7 +35,7 @@ sections:
             url: >-
               https://public.tableau.com/app/profile/sara.f2900/viz/Airbnbbook_16959281352180/AirbnbDash
       - type: Card
-        title: Seattle Housing Price Insights
+        title: Minnesota Traffic Volume
         image:
           type: Image
           url: /images/58C56279-2A74-4990-A73C-E2C230BD3CF8.jpeg
