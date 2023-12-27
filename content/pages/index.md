@@ -9,7 +9,7 @@ sections:
     actions: []
     image:
       type: Image
-      altText: hello
+      altText: ''
       url: /images/tempImageFG6xkh.bmp
   - type: CardsSection
     title: My Projects Made with Tableau
