@@ -5,8 +5,7 @@ sections:
   - type: HeroSection
     title: Welcome to My Portfolio Website!
     subtitle: Data Enthusiast. Deep Dives. Continuous Learning.
-    text: |
-      Data Enthusiast. Deep Dives. Continuous Learning. 
+    text: "\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\nOver three years of professional experience in data manipulation, analysis of large datasets, and cross-team communication. I am passionate about\nconducting thorough research and presenting data in a clear and impactful manner. I actively contributed to my company’s Employee Engagement\nCommittee and Book Club, in addition to participating in training and mentoring fellow employees to foster their professional growth and\ndevelopment. I recently completed the Google Business Intelligence Professional Certificate — a three-month BI program that covers managing\ndata retrieval; organizing data; interpreting data in different ways to fit the problem at hand; and creating data visualizations, dashboards, and\nother tools to provide stakeholder-ready insights.\n\n\n\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n"
     actions: []
     image:
       type: Image
