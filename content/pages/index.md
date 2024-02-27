@@ -9,16 +9,15 @@ sections:
       Over three years of professional experience in data manipulation, analysis
       of large datasets, and cross-team communication. I am passionate about
       conducting thorough research and presenting data in a clear and impactful
-      manner. 
+      manner.
 
 
-      I recently completed the Google Business Intelligence Professional
-      Certificate — a three-month BI program that covers managing
-
-      data retrieval; organizing data; interpreting data in different ways to
-      fit the problem at hand; and creating data visualizations, dashboards, and
-
-      other tools to provide stakeholder-ready insights.
+      Recently, I successfully completed the Google Business Intelligence
+      Professional Certificate, a three-month BI program. This program equipped
+      me with expertise in managing data retrieval, organizing data,
+      interpreting data variably to address specific challenges, and creating
+      data visualizations, dashboards, and other tools to deliver insights that
+      are ready for stakeholders.
     actions: []
     image:
       type: Image
